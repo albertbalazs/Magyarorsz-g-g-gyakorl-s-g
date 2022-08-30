@@ -1,0 +1,32 @@
+html{background-color: wheat;}
+
+h1 {
+    
+	color:white;
+    border-top: 20px solid red;
+    border-right: 20px solid white;
+    border-left: 20px solid white;
+	border-bottom:20px solid green;	/*vastag, sötétpiros alsó szegély*/
+	background-color:grey;				/* fekete háttérszín*/
+	padding:10px;						/* belső kitöltés */
+	margin:0;							/* margó lenullázása */ 
+		}
+
+table{background-color: wheat;}
+
+ img{   border: 20px solid black;
+    
+
+
+}
+        border-bottom
+
+ h3{font-size: larger;}
+
+ ol{
+    padding: 20px;
+ }
+ li{
+    
+   
+ }
